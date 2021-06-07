@@ -1,2 +1,3 @@
 # Coursera_Capstone
-Coursera Capstone for Data science professional certificate
+This repo is for a Coursera Capstone for Data science professional certificate.
+
